@@ -1,4 +1,9 @@
-from coffee_maker import CoffeeMaker
+""" from menu """
 from menu import MenuItem
-from money_machine import MoneyMachine
+from menu import Menu
+
+""" from cofee_maker"""
+from coffee_maker import CoffeeMaker
+
+
 
